@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/amitrke/angular2-learn.svg?branch=master)](https://travis-ci.org/amitrke/courtres)
+
 # FirstApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
