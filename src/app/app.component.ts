@@ -23,7 +23,7 @@ export class AppComponent {
   getValues(){
     this.getData().subscribe(data => {
       console.log(data);
-      this.data = data;
+      this.data = data.Item.description;
     })
   }
 }
